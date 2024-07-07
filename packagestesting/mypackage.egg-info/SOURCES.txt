@@ -1,0 +1,11 @@
+LICENSE
+README.md
+setup.py
+mypackage.egg-info/PKG-INFO
+mypackage.egg-info/SOURCES.txt
+mypackage.egg-info/dependency_links.txt
+mypackage.egg-info/top_level.txt
+packagestesting/__init__.py
+packagestesting/packagestesting.py
+tests/__init__.py
+tests/test_packagestesting.py
